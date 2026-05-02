@@ -15,7 +15,7 @@ I am a passionate **Frontend Developer** specializing in React.js and Next.js. I
 - **Tools:** Git, GitHub, Figma, Vercel
 
 ### 🔗 Social Links
-- **LinkedIn:** [https://linkedin.com](https://linkedin.com)
+- **LinkedIn:** [https://linkedin.com](www.linkedin.com/in/alomgir-hossain-web)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://vercel.app)
+- **GitHub Profile:** [https://github.com](https://github.com)
