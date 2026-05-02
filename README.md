@@ -8,7 +8,7 @@ I am a passionate **Frontend Developer** specializing in React.js and Next.js. I
 - 🔭 I’m currently exploring **Next.js and Server Components**
 - 🚀 Working on building high-performance web applications
 - 💬 Ask me about **React, Tailwind CSS, or Web Design**
-- 📫 Reach me at: alomgirhossain71@gmail.com
+- 📫 Reach me at: [alomgirhossain71@gmail.com](mailto:alomgirhossain71@gmail.com)
 
 ### 🛠 Technical Skills
 <p align="left">
@@ -23,5 +23,4 @@ I am a passionate **Frontend Developer** specializing in React.js and Next.js. I
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://vercel.app" alt="GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
+  <img src="https://vercel.app" alt="Top Language
