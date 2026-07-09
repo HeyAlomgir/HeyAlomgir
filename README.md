@@ -2,6 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Hi%20There!%20I'm%20Alomgir_Hossain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20|%20MERN%20Stack%20|%20Next.js%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 </p>
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Hi%20There!%20I'm%20YOUR_NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E3192&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Frontend+Developer" alt="Typing SVG" />
+</p>
+
 <h3 align="center">
 Full-Stack Web Developer | MERN Stack | Next.js Enthusiast
 </h3>
@@ -113,8 +122,4 @@ I'm constantly learning, experimenting with new technologies, and refining my de
 
 ---
 
-
-<!-- =============================== -->
-<!--            FOOTER               -->
-<!-- =============================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=100&section=footer" width="100%" />
