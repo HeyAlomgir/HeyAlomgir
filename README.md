@@ -1,8 +1,5 @@
-<!-- =============================== -->
-<!--            BANNER               -->
-<!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Hi%20There!%20I'm%20YOUR_NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20|%20MERN%20Stack%20|%20Next.js%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=220&section=header&text=Hi%20There!%20I'm%20Alomgir Hossain &fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20|%20MERN%20Stack%20|%20Next.js%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 </p>
 
 <h3 align="center">
@@ -93,10 +90,10 @@ I'm constantly learning, experimenting with new technologies, and refining my de
 <a href="https://github.com/HeyAlomgir">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/alomgir-hossain-web/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="alomgirhosssain71@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
@@ -116,37 +113,6 @@ I'm constantly learning, experimenting with new technologies, and refining my de
 
 ---
 
-# 📌 Featured Projects
-
-### 🚀 AI Prompt Verse
-A Full-Stack AI Prompt Sharing Platform where users can discover, share and manage AI prompts.
-🔗 **Live:** [Vercel Link](#) | **Repo:** [GitHub](#)
-
-### 💡 IdeaVault
-A Full-Stack Startup Idea Sharing Platform for discovering and sharing innovative startup ideas.
-🔗 **Live:** [Netlify Link](#) | **Repo:** [GitHub](#)
-
-### 🏡 Tiles Gallery
-A modern responsive premium tiles showcase website.
-🔗 **Live:** [Vercel Link](#) | **Repo:** [GitHub](#)
-
----
-
-# 📈 Profile Views
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=HeyAlomgir&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# ⚡ Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-> **"Code with passion. Learn continuously. Build products that make an impact."**
 
 <!-- =============================== -->
 <!--            FOOTER               -->
