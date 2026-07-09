@@ -1,14 +1,17 @@
-<!-- DYNAMIC TECH BANNER -->
+<!-- ========================= BANNER ========================= -->
+
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Full-Stack Developer Banner" />
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Alomgir Hossain Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm [Your Full Name] 👋</h1>
-<p align="center"><strong>Full-Stack Web Developer | Next.js & MERN Stack Specialist</strong></p>
+<h1 align="center">Hi there, I'm YOUR_FULL_NAME 👋</h1>
+
+<h3 align="center">💻 Full-Stack Web Developer | Next.js & MERN Stack Specialist</h3>
 
 ---
 
 ## 🧑‍💻 About Me
+
 I’m a Full-Stack Web Developer with a strong focus on the MERN stack, passionate about building modern web applications that are fast, scalable, and enjoyable to use. I love turning ideas into real products by creating intuitive user experiences on the frontend and reliable, secure systems on the backend.
 
 My primary toolkit includes JavaScript (ES6+), React.js, Next.js, Node.js, Express.js, and MongoDB. I enjoy crafting clean, responsive interfaces with Tailwind CSS, DaisyUI, and HeroUI, while implementing secure authentication and authorization using BetterAuth.
@@ -19,54 +22,108 @@ I’m constantly learning, experimenting with new technologies, and refining my 
 
 - ⚡ **Fun Fact:** I mastered core JavaScript deeply before diving into React.js and Next.js!
 
+---
+
 ## 🚀 Current Activities
-- 🔭 I’m currently working on a feature-rich **Tourism Website** with advanced booking systems.
-- 📚 I’m deeply exploring **Next.js** server actions, SSR, and routing optimization.
-- 🔧 I am actively implementing **BetterAuth** for modern and ironclad user authentication.
 
-## 🛠️ Technical Arsenal (Skills)
-
-### 💻 Frontend Engineering
-<p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React.js" />
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="Tailwind CSS" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Express.js" />
-  <img src="https://shields.io" alt="MongoDB" />
-</p>
-
-### 🎨 UI Components & Auth Tools
-- **UI Libraries:** HeroUI (formerly NextUI) • DaisyUI
-- **Security:** BetterAuth (Modern Web Authentication & Authorization)
+- 🔭 Currently building **HireLoop** (A Full-Stack Job Portal)
+- 🌱 Exploring advanced **Next.js**
+- 🔐 Implementing secure authentication with **BetterAuth**
+- ⚡ Improving backend architecture using **Node.js, Express.js & MongoDB**
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+# 💻 Technical Arsenal (Skills)
+
+### 🚀 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,vercel" />
+</p>
+
+### 🎨 UI Libraries & Authentication
+
+- 🎨 HeroUI
+- 🎨 DaisyUI
+- 🔐 BetterAuth
+
+---
+
+# 💬 Ask Me About
+
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- BetterAuth
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/HeyAlomgir" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://shields.io" alt="Email" />
-  </a>
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=HeyAlomgir&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyAlomgir&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=HeyAlomgir&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=HeyAlomgir&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# ⚡ Quote
+
+> "Code with passion. Learn continuously. Build products that make an impact."
