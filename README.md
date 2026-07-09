@@ -1,16 +1,24 @@
-<!-- ========================= BANNER ========================= -->
+<!-- =============================== -->
+<!--            BANNER               -->
+<!-- =============================== -->
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Alomgir Hossain Banner" width="100%" />
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm YOUR_FULL_NAME 👋</h1>
+<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
 
-<h3 align="center">💻 Full-Stack Web Developer | Next.js & MERN Stack Specialist</h3>
+<h3 align="center">
+Full-Stack Web Developer | MERN Stack | Next.js Enthusiast
+</h3>
+
+<p align="center">
+Passionate about building fast, scalable and user-friendly web applications.
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 I’m a Full-Stack Web Developer with a strong focus on the MERN stack, passionate about building modern web applications that are fast, scalable, and enjoyable to use. I love turning ideas into real products by creating intuitive user experiences on the frontend and reliable, secure systems on the backend.
 
@@ -24,52 +32,56 @@ I’m constantly learning, experimenting with new technologies, and refining my 
 
 ---
 
-## 🚀 Current Activities
+# 🚀 Current Activities
 
-- 🔭 Currently building **HireLoop** (A Full-Stack Job Portal)
-- 🌱 Exploring advanced **Next.js**
-- 🔐 Implementing secure authentication with **BetterAuth**
-- ⚡ Improving backend architecture using **Node.js, Express.js & MongoDB**
+- 🔭 Building **AI Prompt Verse** (Full-Stack AI Prompt Sharing Platform)
+- 💡 Developing **IdeaVault** (Full-Stack Startup Idea Sharing Platform)
+- 🌱 Exploring advanced features of **Next.js**
+- 🔐 Implementing authentication using **BetterAuth**
 
 ---
 
-# 💻 Technical Arsenal (Skills)
+# 💻 Technical Arsenal
 
-### 🚀 Frontend
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,daisyui" />
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,vercel" />
-</p>
-
-### 🎨 UI Libraries & Authentication
+## 🎨 UI Library & Authentication
 
 - 🎨 HeroUI
-- 🎨 DaisyUI
 - 🔐 BetterAuth
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,figma" />
+</p>
 
 ---
 
 # 💬 Ask Me About
 
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript (ES6)
 - React.js
 - Next.js
 - Node.js
 - Express.js
 - MongoDB
-- Tailwind CSS
 - BetterAuth
+- HeroUI
+- DaisyUI
 
 ---
 
@@ -77,15 +89,15 @@ I’m constantly learning, experimenting with new technologies, and refining my 
 
 <p align="left">
 
-<a href="https://github.com/HeyAlomgir" target="_blank">
+<a href="https://github.com/HeyAlomgir">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -97,28 +109,36 @@ I’m constantly learning, experimenting with new technologies, and refining my 
 
 <p align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=HeyAlomgir&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HeyAlomgir&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyAlomgir&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyAlomgir&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=HeyAlomgir&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=HeyAlomgir&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
+# 📌 Featured Projects
+
+### 🚀 AI Prompt Verse
+A Full-Stack AI Prompt Sharing Platform where users can discover, share and manage AI prompts.
+
+### 💡 IdeaVault
+A Full-Stack Startup Idea Sharing Platform for discovering and sharing innovative startup ideas.
+
+### 🏡 Tiles Gallery
+A modern responsive premium tiles showcase website.
+
+---
+
 # 📈 Profile Views
 
-<p align="left">
+<p>
 <img src="https://komarev.com/ghpvc/?username=HeyAlomgir&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
@@ -126,4 +146,4 @@ src="https://streak-stats.demolab.com?user=HeyAlomgir&theme=tokyonight&hide_bord
 
 # ⚡ Quote
 
-> "Code with passion. Learn continuously. Build products that make an impact."
+> **"Code with passion. Learn continuously. Build products that make an impact."**
